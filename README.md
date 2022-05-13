@@ -6,5 +6,5 @@ Need to do:<br>
 - [ ] Improve readability
 - [ ] Add option to send answers
 
-# screenshot
-[image]./survey/survey-img.png[/image]
+# Screenshot
+![screenshot](./survey/survey-img.png)
