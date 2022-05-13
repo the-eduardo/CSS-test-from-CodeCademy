@@ -7,4 +7,4 @@ Need to do:<br>
 - [ ] Add option to send answers
 
 # screenshot
-[image]./survey/survey-img.png[/image]
+![screenshot](./survey/survey-img.png)
