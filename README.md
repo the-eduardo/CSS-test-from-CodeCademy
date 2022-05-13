@@ -5,3 +5,6 @@ Need to do:<br>
 - [ ] Add response to buttons (after mouse click)
 - [ ] Improve readability
 - [ ] Add option to send answers
+
+# screenshot
+[image]./survey/survey-img.png[/image]
